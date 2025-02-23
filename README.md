@@ -11,4 +11,10 @@ This project is a Technical Documentation Webpage designed to showcase the featu
 - **HTML**: For structuring the content.
 - **CSS**: For styling the webpage with a simple and clean layout.
 
-## Project Structure
+## Future Enhancements
+Add JavaScript for interactive navigation.
+Improve mobile responsiveness.
+Include more C++ topics and code examples.
+
+## Contribution
+Feel free to contribute by submitting issues or pull requests.
